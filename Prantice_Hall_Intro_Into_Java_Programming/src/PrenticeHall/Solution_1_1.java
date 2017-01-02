@@ -6,8 +6,7 @@
 package PrenticeHall;
 
 /**
- *
- * @author bandika 
+ * @author andras.varro
  */
 public class Solution_1_1 {
     
